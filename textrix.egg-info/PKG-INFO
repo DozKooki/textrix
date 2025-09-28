@@ -1,0 +1,44 @@
+Metadata-Version: 2.4
+Name: textrix
+Version: 0.1.0
+Summary: A fun Python library for text effects (typing, rainbow, glitch, colors).
+Home-page: https://github.com/DozKooki/textrix
+Author: Dozkooki
+Author-email: dozkooki@example.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+
+# textrix 🎨
+
+Fun text effects for Python: typing animation, rainbow colors, glitch effect, and more.
+
+## Installation
+```bash
+pip install textrix
+````
+
+## Usage
+
+```python
+import textrix
+
+textrix.typing("Hello Dishan!", delay=0.1)
+textrix.rainbow("Rainbow text")
+textrix.glitch("Glitch effect!", duration=2)
+```
+
+
+
+### `LICENSE` (MIT License)
+```text
+MIT License
+Copyright (c) 2025 Dishan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...

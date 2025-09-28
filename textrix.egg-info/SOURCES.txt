@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+textrix.egg-info/PKG-INFO
+textrix.egg-info/SOURCES.txt
+textrix.egg-info/dependency_links.txt
+textrix.egg-info/top_level.txt
