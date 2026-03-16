@@ -1,7 +1,7 @@
 
 # textrix 🎨
 
-Fun text effects for Python: typing animation, rainbow colors, glitch effect, and more.
+Fun text effects for Python: typing animation, rainbow colors, glitch effect.
 
 ## Installation
 ```bash
